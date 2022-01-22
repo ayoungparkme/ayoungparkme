@@ -8,6 +8,6 @@ Just test repository to fork repository
 
 ***
 
-<center>[이 부분을 수정해 보세요]
+<center>[이 부분을 수정해 보세요!]
 
 ***
