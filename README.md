@@ -1,13 +1,19 @@
-# Forkit
-Just test repository to fork repository
+![header](https://capsule-render.vercel.app/api?type=Soft&color=auto&height=200&section=header&text=AyoungPark&#x0027;s&#160;GitHub&fontSize=45)
+- 👋 Hi, I’m AyoungPark
 
-이 레포지토리를 포크 [Fork] 한 후, 수정해서 풀 리퀘스트를 만드세요.
-이 모든 강의 내용은 블로그에 설명되어 있습니다.
+## **Skills**
 
-> 👉 [\[블로그 강의 바로가기\]](https://eggjini.github.io//)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff"/>  <img src="https://img.shields.io/badge/Html5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff"/>  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=ffffff"/>   <img src="https://img.shields.io/badge/MarkDown-000000?style=for-the-badge&logo=Markdown&logoColor=ffffff"/>    
 
-***
+## STATS
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayoungparkme&theme=radical&layout=compact&)](https://github.com/ayoungparkme/github-readme-stats)  
+![AYoungPark's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayoungparkme&theme=radical&show_icons=true)
 
-<center>[이 부분을 수정해 보세요!]
 
-***
+![trophy](https://github-profile-trophy.vercel.app/?username=ayoungparkme&theme=radical)
+
+## <center> Contact </center>
+<center>
+<a href="https://velog.io/@ay_park" target="_blank"><img src="https://img.shields.io/badge/Velog-000000?style=for-the-badge&logo=&logoColor=white"/></a>  
+<a href="ayoungparkme@gmail.com" target="_blank"><img src="https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/ayoungparkme" target="_blank"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
