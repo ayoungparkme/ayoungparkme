@@ -14,6 +14,7 @@
 
 ## <center> Contact </center>
 <center>
-<a href="https://velog.io/@ay_park" target="_blank"><img src="https://img.shields.io/badge/Velog-000000?style=for-the-badge&logo=&logoColor=white"/></a>  
-<a href="ayoungparkme@gmail.com" target="_blank"><img src="https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ayoungparkme/" target="_blank"><img src="https://img.shields.io/badge/AyoungPark-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://velog.io/@ay_park" target="_blank"><img src="https://img.shields.io/badge/VELOG-000000?style=for-the-badge&logo=&logoColor=white"/></a>
+<a href="mailto:ayoungparkme@gmail.com" target="_blank"><img src="https://img.shields.io/badge/ayoungparkme@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://github.com/ayoungparkme" target="_blank"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
